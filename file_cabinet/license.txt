@@ -1,0 +1,11 @@
+Model Information:
+* title:	File Cabinet
+* source:	https://sketchfab.com/3d-models/file-cabinet-3696af7324054dcbb1d896bef986e597
+* author:	Cliff Man (https://sketchfab.com/rcork477)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "File Cabinet" (https://sketchfab.com/3d-models/file-cabinet-3696af7324054dcbb1d896bef986e597) by Cliff Man (https://sketchfab.com/rcork477) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
