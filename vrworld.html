@@ -24,11 +24,11 @@
   <a-assets>
 
 
-    <audio id ="button_press" src="vrsounds/button.mp3" preload="auto"></audio>
-    <audio id ="finish" src="glados/done.wav" preload="auto"></audio>
-    <audio id ="welcome" src="glados/welcome.wav" preload="auto"></audio>
-    <audio id ="lava_gald" src="glados/lava.wav" preload="auto"></audio
-    <audio id ="etext" src="glados/idlechat.wav" preload="auto"></audio>
+    <audio id="button_press" src="vrsounds/button.mp3" preload="auto" playsinline></audio>
+    <audio id="finish" src="glados/done.wav" preload="auto" playsinline></audio>
+    <audio id="welcome" src="glados/welcome.wav" preload="auto" playsinline></audio>
+    <audio id="lava_gald" src="glados/lava.wav" preload="auto" playsinline></audio>
+    <audio id="etext" src="glados/idlechat.wav" preload="auto" playsinline></audio>
     
      <img src="vrimages/tile.jpg" id="tile">
     <img src="vrimages/floor.jpg" id="floor">
@@ -549,7 +549,7 @@
 
 
 
-  <a-box position="-87 0.5 -35" width="30" height="20" depth="2" id="lava" side="double" rotation="90 0 90" src="#lava_tex" sound="src:#lavagald; loop:false"></a-box>  
+  <a-box position="-87 0.5 -35" width="30" height="20" depth="2" id="lava" side="double" rotation="90 0 90" src="#lava_tex" sound="src:#lava_gald; loop:false"></a-box>  
 
   
 <a-entity id="link" camera look-controls position="0 1.6 0">
